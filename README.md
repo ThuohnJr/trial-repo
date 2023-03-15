@@ -1,2 +1,2 @@
-# trial-repo
-trial repo
+# trial-repo 
+trial repo for learning git
